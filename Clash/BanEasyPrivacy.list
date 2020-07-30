@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-07-29 23:36:47
-# 数量：2539条
+# 更新：2020-07-30 22:04:38
+# 数量：2525条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -421,7 +421,6 @@ DOMAIN-SUFFIX,cct2.o2online.de
 DOMAIN-SUFFIX,cdn-alliancegravity.s3.amazonaws.com
 DOMAIN-SUFFIX,cdn-analytics.ladmedia.fr
 DOMAIN-SUFFIX,cdn1.pebx.pl
-DOMAIN-SUFFIX,cdnbigdata.azureedge.net
 DOMAIN-SUFFIX,cdnstats.tube8.com
 DOMAIN-SUFFIX,ce.lijit.com
 DOMAIN-SUFFIX,cellstats.mako.co.il
@@ -760,7 +759,6 @@ DOMAIN-SUFFIX,ea.vente-unique.ch
 DOMAIN-SUFFIX,ea.vente-unique.com
 DOMAIN-SUFFIX,ea.vente-unique.lu
 DOMAIN-SUFFIX,ea.warnerbros.fr
-DOMAIN-SUFFIX,ebay.northernhost.com
 DOMAIN-SUFFIX,eclick.baidu.com
 DOMAIN-SUFFIX,ecomm.events
 DOMAIN-SUFFIX,edge.sqweb.com
@@ -1201,8 +1199,6 @@ DOMAIN-SUFFIX,mediametrics.mpsa.com
 DOMAIN-SUFFIX,mediator.mail.ru
 DOMAIN-SUFFIX,mercadolibre.com/tracks
 DOMAIN-SUFFIX,met.vgwort.de
-DOMAIN-SUFFIX,metric-agent.i10c.net
-DOMAIN-SUFFIX,metric.gstatic.com
 DOMAIN-SUFFIX,metric.inetcore.com
 DOMAIN-SUFFIX,metric.nwsource.com
 DOMAIN-SUFFIX,metrics-api.librato.com
@@ -1273,7 +1269,6 @@ DOMAIN-SUFFIX,ms.computerbild.de
 DOMAIN-SUFFIX,msg.71.am
 DOMAIN-SUFFIX,mtag.mman.kr
 DOMAIN-SUFFIX,mtc.nhk.or.jp
-DOMAIN-SUFFIX,mtrcs.samba.tv
 DOMAIN-SUFFIX,mts-ws.rueducommerce.fr
 DOMAIN-SUFFIX,mv.treehousei.com
 DOMAIN-SUFFIX,mva1.maeva.com
@@ -1297,7 +1292,6 @@ DOMAIN-SUFFIX,nmtracking.netflix.com
 DOMAIN-SUFFIX,noa0.compteczam.fr
 DOMAIN-SUFFIX,nol.yahoo.com
 DOMAIN-SUFFIX,nova.dice.net
-DOMAIN-SUFFIX,nozem.tvmaze.com
 DOMAIN-SUFFIX,nrg.red-by-sfr.fr
 DOMAIN-SUFFIX,ns.rvmkitt.com
 DOMAIN-SUFFIX,nws.naltis.com
@@ -1418,7 +1412,6 @@ DOMAIN-SUFFIX,pixel.naij.com
 DOMAIN-SUFFIX,pixel.newscgp.com
 DOMAIN-SUFFIX,pixel.newscred.com
 DOMAIN-SUFFIX,pixel.newsdiscover.com.au
-DOMAIN-SUFFIX,pixel.parsely.com
 DOMAIN-SUFFIX,pixel.pcworld.com
 DOMAIN-SUFFIX,pixel.propublica.org
 DOMAIN-SUFFIX,pixel.prosieben.de
@@ -1482,7 +1475,6 @@ DOMAIN-SUFFIX,px.mvfglobal.com
 DOMAIN-SUFFIX,px.owneriq.net
 DOMAIN-SUFFIX,px.spiceworks.com
 DOMAIN-SUFFIX,px.staticfiles.at
-DOMAIN-SUFFIX,px.topspin.net
 DOMAIN-SUFFIX,px.wayfair.com
 DOMAIN-SUFFIX,px.wp.pl
 DOMAIN-SUFFIX,pxc.otto.de
@@ -1759,7 +1751,6 @@ DOMAIN-SUFFIX,stadig.ifeng.com
 DOMAIN-SUFFIX,stan.xing.com
 DOMAIN-SUFFIX,stas.outbrain.com
 DOMAIN-SUFFIX,stat.1688.com
-DOMAIN-SUFFIX,stat.55bbs.com
 DOMAIN-SUFFIX,stat.acca.it
 DOMAIN-SUFFIX,stat.alibaba.com
 DOMAIN-SUFFIX,stat.api.2gis.ru
@@ -1805,7 +1796,6 @@ DOMAIN-SUFFIX,stat.webevolutis.com
 DOMAIN-SUFFIX,stat.ws.126.net
 DOMAIN-SUFFIX,stat.xhamsterpremium.com
 DOMAIN-SUFFIX,stat.zol.com.cn
-DOMAIN-SUFFIX,stat4.edev.at
 DOMAIN-SUFFIX,statdb.pressflex.com
 DOMAIN-SUFFIX,statistic.qzone.qq.com
 DOMAIN-SUFFIX,statistic.takungpao.com
@@ -2153,7 +2143,6 @@ DOMAIN-SUFFIX,track.fxstreet.com
 DOMAIN-SUFFIX,track.hubspot.com
 DOMAIN-SUFFIX,track.juno.com
 DOMAIN-SUFFIX,track.kyoads.com
-DOMAIN-SUFFIX,track.leadin.com
 DOMAIN-SUFFIX,track.leady.cz
 DOMAIN-SUFFIX,track.mailerlite.com
 DOMAIN-SUFFIX,track.mopo.de
@@ -2177,7 +2166,6 @@ DOMAIN-SUFFIX,track.sitetag.us
 DOMAIN-SUFFIX,track.slideshare.net
 DOMAIN-SUFFIX,track.social.com
 DOMAIN-SUFFIX,track.sohu.com
-DOMAIN-SUFFIX,track.spots.im
 DOMAIN-SUFFIX,track.sprinklecontent.com
 DOMAIN-SUFFIX,track.strife.com
 DOMAIN-SUFFIX,track.tcppu.com
@@ -2272,7 +2260,6 @@ DOMAIN-SUFFIX,tracking.chacha.com
 DOMAIN-SUFFIX,tracking.christianpost.com
 DOMAIN-SUFFIX,tracking.conduit.com
 DOMAIN-SUFFIX,tracking.customerly.io
-DOMAIN-SUFFIX,tracking.dealerwebwatcher.com
 DOMAIN-SUFFIX,tracking.dsmmadvantage.com
 DOMAIN-SUFFIX,tracking.ecookie.fr
 DOMAIN-SUFFIX,tracking.ehavior.net
@@ -2414,7 +2401,6 @@ DOMAIN-SUFFIX,upt.graphiq.com
 DOMAIN-SUFFIX,uptpro.homestead.com
 DOMAIN-SUFFIX,upz1.destinia.lt
 DOMAIN-SUFFIX,urc.taboolasyndication.com
-DOMAIN-SUFFIX,urchin.estadao.com.br
 DOMAIN-SUFFIX,urtracker.q-sis.de
 DOMAIN-SUFFIX,useg.nextdigital.com.hk
 DOMAIN-SUFFIX,user-metrics.onthemarket.com

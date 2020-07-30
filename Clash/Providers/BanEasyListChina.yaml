@@ -2,8 +2,8 @@ payload:
   # 广告列表 adblock rules
   # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
   # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-  # 更新：2020-07-29 23:36:43
-  # 数量：4533条
+  # 更新：2020-07-30 22:04:33
+  # 数量：4545条
 
   - DOMAIN-SUFFIX,0024aaaa.com
   - DOMAIN-SUFFIX,003store.com
@@ -753,6 +753,8 @@ payload:
   - DOMAIN-SUFFIX,artedu.pw
   - DOMAIN-SUFFIX,as1.m.hao123.com
   - DOMAIN-SUFFIX,ashow.pcpop.com
+  - DOMAIN-SUFFIX,askfsh.cn
+  - DOMAIN-SUFFIX,askspsl.cn
   - DOMAIN-SUFFIX,assigned.cn
   - DOMAIN-SUFFIX,assume8.com
   - DOMAIN-SUFFIX,aswlx.cn
@@ -859,6 +861,7 @@ payload:
   - DOMAIN-SUFFIX,bdasd.chdbook.cn
   - DOMAIN-SUFFIX,bdasd.chinabig.com.cn
   - DOMAIN-SUFFIX,bdasd.wmxa.cn
+  - DOMAIN-SUFFIX,bdcapweb.xyz
   - DOMAIN-SUFFIX,bdcm.kandianla.com
   - DOMAIN-SUFFIX,bdcode.35d1.com
   - DOMAIN-SUFFIX,bdcode.qinglm.com
@@ -1257,6 +1260,7 @@ payload:
   - DOMAIN-SUFFIX,d13jhr4vol1304.cloudfront.net
   - DOMAIN-SUFFIX,d15cjcet1djbmv.cloudfront.net
   - DOMAIN-SUFFIX,d1skp.cn
+  - DOMAIN-SUFFIX,d1wn3.cn
   - DOMAIN-SUFFIX,d2wb1.cn
   - DOMAIN-SUFFIX,d3mr7y154d2qg5.cloudfront.net
   - DOMAIN-SUFFIX,d3nh49.com
@@ -2006,6 +2010,7 @@ payload:
   - DOMAIN-SUFFIX,huashengtai.net
   - DOMAIN-SUFFIX,huashuowork.com
   - DOMAIN-SUFFIX,huayange.com
+  - DOMAIN-SUFFIX,huayangli.cn
   - DOMAIN-SUFFIX,huayi65.com
   - DOMAIN-SUFFIX,hubojd.com
   - DOMAIN-SUFFIX,hueekqx.cn
@@ -2235,6 +2240,7 @@ payload:
   - DOMAIN-SUFFIX,jinrungroup.cn
   - DOMAIN-SUFFIX,jinshasi.cn
   - DOMAIN-SUFFIX,jintonghua.com
+  - DOMAIN-SUFFIX,jinxinyuan.cn
   - DOMAIN-SUFFIX,jioeg.com
   - DOMAIN-SUFFIX,jiuku.cc
   - DOMAIN-SUFFIX,jiumishow.com
@@ -3351,6 +3357,7 @@ payload:
   - DOMAIN-SUFFIX,slygzsc.cn
   - DOMAIN-SUFFIX,sm077.com
   - DOMAIN-SUFFIX,smallmovieapp.com
+  - DOMAIN-SUFFIX,smartfarming.cn
   - DOMAIN-SUFFIX,smckii.cn
   - DOMAIN-SUFFIX,smdhek58726.cn
   - DOMAIN-SUFFIX,smf82.cn
@@ -3956,6 +3963,7 @@ payload:
   - DOMAIN-SUFFIX,xiangwangdesh.com
   - DOMAIN-SUFFIX,xiansenmeng.cn
   - DOMAIN-SUFFIX,xiaobiaoucai.cn
+  - DOMAIN-SUFFIX,xiaobingmai.cn
   - DOMAIN-SUFFIX,xiaohui2.cn
   - DOMAIN-SUFFIX,xiaoling.ixiunv.com
   - DOMAIN-SUFFIX,xiaopangtao.com
@@ -4089,6 +4097,7 @@ payload:
   - DOMAIN-SUFFIX,xxlmxsh.com
   - DOMAIN-SUFFIX,xxyxmdq.cn
   - DOMAIN-SUFFIX,xxyzwtsylw.com
+  - DOMAIN-SUFFIX,xyadaa.com
   - DOMAIN-SUFFIX,xycnz.com
   - DOMAIN-SUFFIX,xycnzz.com
   - DOMAIN-SUFFIX,xylmdm.top
@@ -4231,12 +4240,14 @@ payload:
   - DOMAIN-SUFFIX,yrrsckr.cn
   - DOMAIN-SUFFIX,ys.muhoujiemi.com
   - DOMAIN-SUFFIX,ys2000.cdn.bcebos.com
+  - DOMAIN-SUFFIX,yscci.com
   - DOMAIN-SUFFIX,ysdhe.com
   - DOMAIN-SUFFIX,ysgsq.cn
   - DOMAIN-SUFFIX,ysjweb.com
   - DOMAIN-SUFFIX,ysjwj.com
   - DOMAIN-SUFFIX,ysnj74ed.com
   - DOMAIN-SUFFIX,ysxywj.com
+  - DOMAIN-SUFFIX,ysyhljt.vip
   - DOMAIN-SUFFIX,yt-adp.nosdn.127.net
   - DOMAIN-SUFFIX,ytbnm.cn
   - DOMAIN-SUFFIX,ytcard.cn
@@ -4409,6 +4420,7 @@ payload:
   - DOMAIN-SUFFIX,zougg.com
   - DOMAIN-SUFFIX,zp22938576.com
   - DOMAIN-SUFFIX,zpwansf.cn
+  - DOMAIN-SUFFIX,zpxw.vip
   - DOMAIN-SUFFIX,zpyfsj.cn
   - DOMAIN-SUFFIX,zqwlkj.cn
   - DOMAIN-SUFFIX,zqworks.com
