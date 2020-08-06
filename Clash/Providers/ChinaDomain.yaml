@@ -9,6 +9,9 @@ payload:
   - DOMAIN-SUFFIX,kaikeba.com
   - DOMAIN-SUFFIX,laomo.me
   - DOMAIN-SUFFIX,mpyit.com
+  - DOMAIN-SUFFIX,zjs3.com
+  - IP-CIDR,123.123.123.123/32
+  - IP-CIDR,223.2.10.172/32
 
   # CN域名直连
   - DOMAIN-SUFFIX,cn
