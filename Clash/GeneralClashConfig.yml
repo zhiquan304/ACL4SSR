@@ -42,7 +42,7 @@ external-controller: '0.0.0.0:9090'
 # external-ui: dashboard
 
 # RESTful API 的口令 (可选)
-# secret: ""
+secret: "clashclash"
 
 # 实验性功能
 experimental:
